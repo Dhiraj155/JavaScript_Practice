@@ -20,3 +20,7 @@
 //ans--
 
 
+
+let userActivity3 = {Name:"Rahul",jobTitle:"JS instructor@almabetter.com",work:"rahul@microsoft.com",region:"hyderabad"};
+let { name, jobTitle, work } = userActivity3;
+console.log(Name + " ", jobTitle + " ", work );
